@@ -2,4 +2,4 @@
 
 Shirel Desmelliers, BTS CIEL
 
-....
+ajout du memento
